@@ -8,42 +8,42 @@ const questions = [
   {
     type: "input",
     name: "title",
-    message: "Give your project a title",
+    message: "Give your project a title:",
   },
   {
     type: "input",
     name: "description",
-    message: "Describe the purpose of this project.",
+    message: "Describe the purpose of this project:",
   },
   {
     type: "input",
     name: "contents",
-    message: "Write your project's table of contents here.",
+    message: "Write your project's table of contents here:",
   },
   {
     type: "input",
     name: "installation",
-    message: "Describe the installation process for your project.",
+    message: "Describe the installation process for your project:",
   },
   {
     type: "input",
     name: "link",
-    message: "Provide URL to deployed application.",
+    message: "Provide URL to deployed application:",
   },
   {
     type: "input",
     name: "usage",
-    message: "Describe how to use your project.",
+    message: "Describe how to use your project:",
   },
   {
     type: "input",
     name: "features",
-    message: "List your project's key features here.",
+    message: "List your project's key features here:",
   },
   {
     type: "checkbox",
     name: "license",
-    message: "Please select a license applicable to this project.",
+    message: "Please select a license applicable to this project:",
     choices: [
       "APACHE 2.0",
       "GPL v3",
@@ -58,23 +58,23 @@ const questions = [
   {
     type: "input",
     name: "contributing",
-    message: "List any contributors.",
+    message: "List any contributors:",
     default: "",
   },
   {
     type: "input",
     name: "test",
-    message: "If relevant, give a walkthrough of the necessary tests.",
+    message: "If relevant, give a walkthrough of the necessary tests:",
   },
   {
     type: "input",
     name: "creator",
-    message: "Write your GitHub username.",
+    message: "Write your GitHub username:",
   },
   {
     type: "input",
     name: "email",
-    message: "Provide a valid email address.",
+    message: "Provide a valid email address:",
   },
 ];
 
