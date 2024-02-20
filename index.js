@@ -74,7 +74,7 @@ const questions = [
   {
     type: "input",
     name: "email",
-    message: "Provide a valid email address:",
+    message: "Provide a valid email address: ",
   },
 ];
 
