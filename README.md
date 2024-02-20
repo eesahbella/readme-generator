@@ -10,6 +10,8 @@ A Node.js application that simplifies the process of creating a professional REA
 * Customisable Templates: Users may include particular information about their project, such as the project title, description, technologies utilised, and contact data, to make their README file more unique.
 * Time-saving Solution: The Command-line README Generator helps developers save time and guarantees consistency in documentation across projects by automating the README generating process.
 
+![questions screenshot](./images/ss.png)
+
 ## Usage
 
 Just clone the repository to your local computer and use npm to install the required dependencies to utilize the Command-line README Generator. After that, launch the application via the command line and enter the details of your project by following the instructions. When it's finished, the README.md file will be created and placed in the designated directory so that you can utilize it in your project repository.
